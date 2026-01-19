@@ -38,7 +38,7 @@ dynamic visuals and filters.
 ---
 
 ## 📊 Dashboard Preview
-![Power BI E-commerce Dashboard](powerbi-dashboard.png)
+![Power BI E-commerce Dashboard](https://github.com/user-attachments/assets/1269678b-6e22-42fa-9ee8-86fb58437174)
 
 ## 🎯 Business Use Case
 This dashboard helps businesses to:
